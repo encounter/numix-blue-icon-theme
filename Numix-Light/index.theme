@@ -1,9 +1,9 @@
 [Icon Theme]
-Name=Numix Light
+Name=Numix Blue Light
 
 Comment=Icon for light themes from Numix Project
 
-Inherits=Numix
+Inherits=Numix-Blue
 
 Example=folder
 
